@@ -1,0 +1,77 @@
+{
+  "name": "CativeiroTech",
+  "description": "🎮 Comunidade Brasileira de Games e Tecnologia 💻 — Servidor com estrutura gamer, tech e social, com divisórias estilizadas e emojis. Feito para o Xenon Bot.",
+  "icon": "",
+  "roles": [
+    { "name": "👑 Fundador", "color": 16755200, "permissions": "8" },
+    { "name": "🛡️ Moderação", "color": 3447003 },
+    { "name": "🤖 Bots", "color": 10197915 },
+    { "name": "🎮 Membro Gamer", "color": 15105570 },
+    { "name": "💻 Membro Tech", "color": 3447003 },
+    { "name": "🌟 VIP", "color": 15844367 },
+    { "name": "🐒 Cativeiro", "color": 9807270 }
+  ],
+  "categories": [
+    {
+      "name": "╭───📢 INFORMAÇÕES ───╮",
+      "channels": [
+        { "type": 0, "name": "📜・regras" },
+        { "type": 0, "name": "📢・anúncios" },
+        { "type": 0, "name": "🤝・parcerias" },
+        { "type": 0, "name": "👋・boas-vindas" }
+      ]
+    },
+    {
+      "name": "╭───💬 SOCIAL ───╮",
+      "channels": [
+        { "type": 0, "name": "💭・chat-geral" },
+        { "type": 0, "name": "📎・mídias-memes" },
+        { "type": 0, "name": "🎭・auto-roles" },
+        { "type": 0, "name": "🏆・vote-no-cativeiro" }
+      ]
+    },
+    {
+      "name": "╭───🎮 GAMES ───╮",
+      "channels": [
+        { "type": 0, "name": "🔥・valorant" },
+        { "type": 0, "name": "🚗・gta" },
+        { "type": 0, "name": "⚔️・lol" },
+        { "type": 0, "name": "🔫・cs2" },
+        { "type": 0, "name": "🎲・outros-jogos" }
+      ]
+    },
+    {
+      "name": "╭───💻 TECNOLOGIA ───╮",
+      "channels": [
+        { "type": 0, "name": "🖥️・hardware" },
+        { "type": 0, "name": "💾・software" },
+        { "type": 0, "name": "⚙️・programação" },
+        { "type": 0, "name": "💡・dicas-tech" }
+      ]
+    },
+    {
+      "name": "╭───🎧 VOZ ───╮",
+      "channels": [
+        { "type": 2, "name": "🎤・Sala 1" },
+        { "type": 2, "name": "🎧・Sala 2" },
+        { "type": 2, "name": "💤・Sala AFK" }
+      ]
+    },
+    {
+      "name": "╭───🧠 BOTS ───╮",
+      "channels": [
+        { "type": 0, "name": "💬・comandos" },
+        { "type": 0, "name": "📊・logs" },
+        { "type": 0, "name": "🎶・música" }
+      ]
+    },
+    {
+      "name": "╭───🛠️ STAFF ───╮",
+      "channels": [
+        { "type": 0, "name": "📣・avisos-staff" },
+        { "type": 0, "name": "🗣️・mod-chat" },
+        { "type": 0, "name": "💭・sugestões" }
+      ]
+    }
+  ]
+}
