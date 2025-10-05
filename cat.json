@@ -1,15 +1,15 @@
 {
   "name": "CativeiroTech",
-  "description": "🎮 Comunidade Brasileira de Games e Tecnologia 💻 — Servidor com estrutura gamer, tech e social, com divisórias estilizadas e emojis. Feito para o Xenon Bot.",
+  "description": "🎮 Comunidade Brasileira de Games e Tecnologia 💻 — Servidor com estrutura gamer, tech e social. Feito para o Xenon Bot.",
   "icon": "",
   "roles": [
     { "name": "👑 Fundador", "color": 16755200, "permissions": "8" },
-    { "name": "🛡️ Moderação", "color": 3447003 },
-    { "name": "🤖 Bots", "color": 10197915 },
-    { "name": "🎮 Membro Gamer", "color": 15105570 },
-    { "name": "💻 Membro Tech", "color": 3447003 },
-    { "name": "🌟 VIP", "color": 15844367 },
-    { "name": "🐒 Cativeiro", "color": 9807270 }
+    { "name": "🛡️ Moderação", "color": 3447003, "permissions": "0" },
+    { "name": "🤖 Bots", "color": 10197915, "permissions": "0" },
+    { "name": "🎮 Membro Gamer", "color": 15105570, "permissions": "0" },
+    { "name": "💻 Membro Tech", "color": 3447003, "permissions": "0" },
+    { "name": "🌟 VIP", "color": 15844367, "permissions": "0" },
+    { "name": "🐒 Cativeiro", "color": 9807270, "permissions": "0" }
   ],
   "categories": [
     {
