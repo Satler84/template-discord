@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pergunte à IA (API grátis)</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Pergunte à IA</h1>
+      <p class="subtitle">Exemplo simples em HTML + CSS + TypeScript (com JavaScript pronto para rodar).</p>
+
+      <label for="apiKey">Chave da API (OpenRouter)</label>
+      <input id="apiKey" type="password" placeholder="sk-or-v1-..." />
+
+      <label for="question">Sua pergunta</label>
+      <textarea id="question" rows="5" placeholder="Digite sua pergunta..."></textarea>
+
+      <button id="askBtn">Perguntar</button>
+
+      <section class="result">
+        <h2>Resposta</h2>
+        <pre id="answer">A resposta aparecerá aqui.</pre>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
